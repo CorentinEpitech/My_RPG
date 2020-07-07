@@ -1,14 +1,3 @@
-# My RPG - It's your turn to create you final fantaisy
-
-
-- **Binary name:** my_rpg
-- **Repository name:** my_rpg_2017
-- **Repository rights:** ramassage-tek
-- **Language:** C
-- **Group Size:** 5
-- **Compilation:** via Makefile, including re, clean and fclean rules
-
-
 # Subject
 
 > :exclamation: Warning: This project is an Epitech project. Follow the golden rule ... do not make a project recovered on github or you can get -42! :tongue:
